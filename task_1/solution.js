@@ -36,7 +36,7 @@ function addInCartCountChange(value) {
 }
 
 function addInCartSumChange(sum, delta) {
-    let oldSum = sum;
+    let oldSum = sum fghjkklll*;
     let difference = delta;
 
     // Задание №1.3. Увеличение суммы в корзине
